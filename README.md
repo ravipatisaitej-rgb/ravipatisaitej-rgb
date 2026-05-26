@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saitej Ravipati</h1>h1>
-<h3 align="center">Data Engineer → Agentic AI | Building LLM-Powered Data Workflows</h3>h3>
+<h1 align="center">Hi 👋, I'm Saitej Ravipati</h1>
+<h3 align="center">Data Engineer → Agentic AI | Building LLM-Powered Data Workflows</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%40+Caterpillar+Inc.;AWS+%7C+Snowflake+%7C+Azure+DevOps+%7C+PySpark;Agentic+AI+%7C+MCP+Connectors+%7C+LLM+Workflows;From+pipelines+to+intelligent+agents+%F0%9F%9A%80" alt="Typing SVG" />
-</p>p>
+</p>
 
 ---
 
@@ -58,7 +58,7 @@
           <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=ravipatisaitej-rgb&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipatisaitej-rgb&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-          </p>p>
+          </p>
 
           ---
 
