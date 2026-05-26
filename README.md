@@ -71,4 +71,4 @@
 
           <p align="center">
             <img src="https://komarev.com/ghpvc/?username=ravipatisaitej-rgb&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-          </p>p>
+          </p>
